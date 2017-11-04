@@ -1,0 +1,9 @@
+env/
+
+
+# scrapy
+crawl_uflat/.DS_Store
+crawl_uflat/*.pyc
+crawl_uflat/*.egg-info
+crawl_uflat/build
+crawl_uflat/setup.py
